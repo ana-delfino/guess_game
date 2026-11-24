@@ -1,0 +1,10 @@
+.git
+.venv
+frontend
+nginx
+tests
+**/__pycache__
+*.pyc
+db
+*.md
+.env
